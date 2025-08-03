@@ -24,3 +24,4 @@ function Todo({title,completed}: ITodo){
         {title} {completed ? "done" : "not done"}
     </div>
 }
+ 
